@@ -1,0 +1,16 @@
+#heading
+{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+
+#backdrop
+{
+    background-size:cover;
+}
+
+h2
+{
+    color:cyan;
+}
